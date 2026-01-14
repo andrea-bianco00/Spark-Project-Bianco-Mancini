@@ -21,7 +21,7 @@ The main components of the repository are:
 - **departements.geojson**  
   Geographical data used for spatial analysis and mapping.
 
-- **html/**  
+- **html files**  
   Folder containing HTML files generated during the execution of the notebook, representing final visual outputs.
 
 ## Authors
